@@ -41,7 +41,7 @@ def main():
         upgrades = browser.find_elements(By.CLASS_NAME, "upgrade")
         click_prod0(browser, scores)
         
-        if num > 100 and len(upgrades)>1:
+        if num > 100 and len(upgrades) > 1:
             upgrades[0].click()
             print("upgraded!!!")
 
