@@ -1,3 +1,3 @@
 # Cookie_clicker_selen
  
-This is web robot that plays online game CookieClicker on https://orteil.dashnet.org/cookieclicker/
+This is a web robot that plays online game CookieClicker on https://orteil.dashnet.org/cookieclicker/
